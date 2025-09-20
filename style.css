@@ -131,6 +131,7 @@ header nav .left, header nav .right {
         height: auto; /* otomatis menyesuaikan isi */
         text-align: center; /* teks di tengah */
         padding: 80px;
+        height: 100vh;
     }
 
     .hero img {
@@ -166,4 +167,5 @@ header nav .left, header nav .right {
 main {
     padding-top: 70px; /* tinggi navbar agar hero tidak tertutup */
 }
+
 
